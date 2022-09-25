@@ -7,7 +7,7 @@ The target device is Arty S7-50.
 The repository contains below files:
 - top_module - the main module with creation of instances of other modules and display controling,
 - fsm - state machine,
-- alu - arthmetic logic unit,
+- alu - arithmetic logic unit,
 - keypad - keypad handling,
 - lcd_display - display driver,
 - debouncer - elimination of contact vibration.
